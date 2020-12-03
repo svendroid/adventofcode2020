@@ -16,3 +16,7 @@ What did I learn?
 
 * Learned what a [Toboggan](https://en.wikipedia.org/wiki/Toboggan) is - a simple sled
 * `re.split` for using different characters as delimeters
+
+## Day 3
+
+* slice notation in python is great - `list[start:stop:step]` especially the step parameter makes it super easy to iterate through a list and e.g. only access every third element
