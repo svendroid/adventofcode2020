@@ -20,3 +20,8 @@ What did I learn?
 ## Day 3
 
 * slice notation in python is great - `list[start:stop:step]` especially the step parameter makes it super easy to iterate through a list and e.g. only access every third element
+
+## Day 4
+
+* `yield` was nice for generating the single items on the parsing step
+* Regex for the win (as every year) - https://regexr.com/ for quick tryouts
