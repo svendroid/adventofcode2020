@@ -4,7 +4,7 @@ from day4 import part2
 import day4
 
 
-class Day2Test(unittest.TestCase):
+class Day4Test(unittest.TestCase):
 
     exampleInput = """ecl:gry pid:860033327 eyr:2020 hcl:#fffffd
 byr:1937 iyr:2017 cid:147 hgt:183cm

@@ -25,3 +25,9 @@ What did I learn?
 
 * `yield` was nice for generating the single items on the parsing step
 * Regex for the win (as every year) - https://regexr.com/ for quick tryouts
+
+## Day 5
+
+* plane boarding is done wrong :) https://www.youtube.com/watch?v=oAHbLRjF0vo
+* List comprehension is a nice way to transform lists
+* Sort lists: `sorted` returns a sorted list, `sort` changes the list in place

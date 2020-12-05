@@ -3,7 +3,7 @@ from day3 import part1
 from day3 import part2
 
 
-class Day2Test(unittest.TestCase):
+class Day3Test(unittest.TestCase):
 
     exampleInput = """..##.......
 #...#...#..
