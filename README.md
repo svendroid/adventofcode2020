@@ -31,3 +31,11 @@ What did I learn?
 * plane boarding is done wrong :) https://www.youtube.com/watch?v=oAHbLRjF0vo
 * List comprehension is a nice way to transform lists
 * Sort lists: `sorted` returns a sorted list, `sort` changes the list in place
+
+## Day 6
+
+* `setdefault(key, default_value)` - The setdefault() method returns the value of a key (if the key is in dictionary). If not, it inserts key with a value to the dictionary.
+
+## Day 9
+
+* obvious, but use a main method to avoid executing the solutions on every import in the test
