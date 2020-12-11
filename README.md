@@ -40,9 +40,14 @@ What did I learn?
 
 * obvious, but use a main method to avoid executing the solutions on every import in the test
 
+# Day 10
+
+* `collections.Counter` for counting occurrences of elements in list
+* `collections.defaultdict` for creating a dict of ints
+
 ## Day 11
 
 * played arround with numpy arrays for easy column, row access.
 * Should read the instructions more carfully! :) Thought I learned this in school.
 * Pylance seems not to find module day11, why?
-* Made a mistake by not copying the map in the second part.
+* Made an easy mistake by not copying the map in the second part.
